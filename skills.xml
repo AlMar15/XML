@@ -1,0 +1,79 @@
+<xml>
+	<basic_theory>
+		<p>what is testing</p>
+		<p>bug reports</p>
+		<p>documentation</p>
+		<p>types</p>
+		<p>methods</p>
+		<p>test directions</p>
+		<p>SDLC</p>
+		<p>STLC</p>
+	</basic_theory>
+	<client_server_archtecture>
+		<p>HTTP methods</p>
+		<p>HTTP server response codes</p>
+		<p>structure of HTTP requests and responses</p>
+		<p>what is JSON, XML</p>
+	</client_server_archtecture>
+	<Postman>
+		<p>JS</p>
+		<p>API autotests</p>
+	</Postman>
+	<logs>Removing and reading logs from an external server</logs>
+	<Charles_and_Fiddler>Sniffing http web traffic</Charles_and_Fiddler>
+	<Dev_Tools>
+		<p>Google Chrome</p>
+		<p>FireFox</p>
+	</Dev_Tools>
+	<VPN>
+		<p>How it works</p>
+		<p>why you need it</p>
+		<p>how to use it</p>
+		<p>tool options</p>
+	</VPN>
+	<Mobile_testing>
+		<p>Feature iOS</p>
+		<p>Feature Android</p>
+		<p>guidelines</p>
+		<p>Building iOS applications on XCode</p>
+		<p>Building Android applications on Android Studio</p>
+		<p>ADB (android device management)</p>
+		<p>Setting up proxy and vpn on iOS and Android</p>
+		<p>Interception (sniffing) of mobile traffic via Charles and Fiddler on iOS and Android</p>
+	</Mobile_testing>
+	<Command_line>
+		<p>copying</p>
+		<p>creating</p>
+		<p>viewing</p>
+		<p>moving</p>
+	</Command_line>
+	<Bash>
+		<p>Basics of bash scripting</p>
+		<p>automation of routine tasks on the server</p>
+	</Bash>	
+	<SQL>
+		<p>Create</p>
+		<p>Delete</p>
+		<p>Drop</p>
+		<p>Insert Into</p>
+		<p>Select</p>
+		<p>From</p>
+		<p>Where</p>
+		<p>Join</p>
+	</SQL>
+	<Postgres_database>
+		<p>installation</p>
+		<p>configuration</p>
+		<p>use</p>
+	</Postgres_database>
+	<Nonrelational_database_Redis>
+		<p>installation</p>
+		<p>configuration</p>
+		<p>use</p>
+	</Nonrelational_database_Redis>
+	<Load_testing>Jmeter</Load_testing>
+	<development_methodology>Scrum</development_methodology>
+	<Python>
+		<p>Learning the basics</p>
+		<p>Creating a client-server application</p>
+	</Python>
