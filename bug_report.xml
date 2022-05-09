@@ -1,1 +1,17 @@
-
+<xml>
+	<Summary>The 'Add to bag' button isn't available on the PDP when navigating from 'No disponible’ product page</Summary>
+	<Severity>Medium</Severity>
+	<Priority>High</Priority>
+	<Step to reproduce>
+		<p>1. Open the site</p>
+		<p>2. Enter ‘Secadores’ in the search field</p>
+		<p>3. Scroll down and select 'No disponible’ product</p>
+		<p>4. Observe the ‘No disponible’ button is presented</p>
+		<p>5. Scroll down to the suggestion products</p>
+		<p>6. Select any product</p>
+		<p>7. Obserbe the problem</p>
+	</Step to reproduce>
+	<Actual result>The 'Add to bag' button isn't available on the PDP and user cannot add products to the basket when navigating from 'No disponible’ product page</Actual result>
+	<Expected result>The "Add to bag" button should be available on the PDP and user can add the product to the basket</Expected result>
+	<Platforms>Samsung Galaxy A7 (2018), Android 10, Samsung Internet 16</Platforms>
+	<Attachments>file.png</Attachments>
